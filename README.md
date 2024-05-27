@@ -1,5 +1,6 @@
 # CLSESSP Main Code
 
+## requirements
 ```bash
 pip install requirements.txt
 ```
@@ -9,6 +10,9 @@ If you download the latest version of the transformer library, please use the fo
 ```bash
 pip install tokenizers==0.9.4
 ```
+
+## Model
+You should download the pre-trained models from Hugging Face and save them in a path like: model/bert-base-uncased/... 
 
 ## Data link
 
