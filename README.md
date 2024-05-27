@@ -5,10 +5,9 @@ If you download the latest version of the transformer library, please use the fo
 ```bash
 pip install tokenizers==0.9.4
 
-## Data Files
+## Data link
 
 You can download the data files from this link：https://drive.google.com/file/d/1DinUy1eao7P_59aZGp0BqMRd20ZR5Qb7/view?usp=drive_link
-
 
 ### wiki1m_for_simcse.txt
 
