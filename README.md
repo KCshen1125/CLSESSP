@@ -1,5 +1,9 @@
 # CLSESSP Main Code
 
+```bash
+pip install requirements.txt
+```
+
 If you download the latest version of the transformer library, please use the following command to install the required version of the tokenizers library:  
 
 ```bash
