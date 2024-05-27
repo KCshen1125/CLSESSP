@@ -4,6 +4,7 @@
 ```bash
 pip install requirements.txt
 ```
+If you are unable to install SentEval normally, you can install it using the setup.py file located in the SentEval folder.  
 
 If you download the latest version of the transformer library, please use the following command to install the required version of the tokenizers library:  
 
