@@ -15,7 +15,7 @@ pip install tokenizers==0.9.4
 You should download the pre-trained models from Hugging Face and save them in a path like: 
 
 ```bash
-model/bert-base-uncased/... 
+model_path/bert-base-uncased/... 
 ```
 
 ## Data link
