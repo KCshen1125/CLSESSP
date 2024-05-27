@@ -4,6 +4,7 @@ If you download the latest version of the transformer library, please use the fo
 
 ```bash
 pip install tokenizers==0.9.4
+```
 
 ## Data link
 
@@ -15,6 +16,7 @@ This file is used for unsupervised training. You should create a directory and p
 
 ```bash
 data/wiki1m_for_simcse.txt
+```
 
 ### data_for_senteval
 
@@ -22,3 +24,4 @@ These files are used for the SentEval library. You should create a directory and
 
 ```bash
 SentEval/data/...
+```
